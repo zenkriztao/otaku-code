@@ -4,7 +4,7 @@ import co.touchlab.kermit.BuildConfig
 
 
 /**
- * Created by Uwais Alqadri on July 22, 2021
+ *   on July 22, 2021
  */
 
 actual fun getStage(): EnvStage {

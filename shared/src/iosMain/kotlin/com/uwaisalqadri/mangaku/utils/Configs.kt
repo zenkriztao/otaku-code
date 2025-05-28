@@ -1,7 +1,7 @@
 package com.zenkriztao.otaku.utils
 
 /**
- * Created by Uwais Alqadri on July 22, 2021
+ *   on July 22, 2021
  */
 
 actual fun getStage(): EnvStage {

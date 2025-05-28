@@ -3,7 +3,7 @@ package com.zenkriztao.otaku.utils
 import kotlinx.serialization.Serializable
 
 /**
- * Created by Uwais Alqadri on July 22, 2021
+ *   on July 22, 2021
  */
 @Serializable
 data class Configs(
