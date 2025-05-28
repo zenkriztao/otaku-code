@@ -1,5 +1,3 @@
- OtakuCode - Kotlin Anime Portfolio
-
 **OtakuCode** is a sophisticated Kotlin-based application designed to provide an immersive and efficient platform for anime enthusiasts and developers alike. This portfolio showcases my ability to integrate modern Kotlin features, create clean architecture, and design user-centric interfaces. With a focus on anime content, this project utilizes Kotlin's power to manage complex data, deliver smooth animations, and provide an engaging user experience.
 
 **GitHub Username**: [zenkriztao](https://github.com/zenkriztao)
